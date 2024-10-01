@@ -1,0 +1,33 @@
+html,body{
+    display: inline-block;
+    background:rgb(227, 253, 189);
+    overflow: hidden;
+    
+}
+div{
+
+text-align: justify;
+text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    text-align: justify;
+    font-size:100px ;
+    color: rgb(0 0, 0);
+    scale: 100px;
+    display:flex;
+    text-align: justify;
+    text-decoration: none;
+    
+}
+
+img {
+    display: inline-block;
+    transform: translateY(-850px); 
+    margin-left:700px;  
+}
+
+
+  
+
